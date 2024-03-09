@@ -1,1 +1,3 @@
 # nosql_challenge
+
+This week's challenge was to evaluate the food hygiene rating for food magazine Eat, Safe, Love based of of UK Food Standards Agency. This challenge demonstrates usage of non-SQL databases using terminal/gitbash and Jupyter notebook referencing a JSON file from the food standards agency to update and analyze the data. All code used was created using the University of California Berkeley Data Analytics content as well as Stack Overflow for various code error troubleshooting.
